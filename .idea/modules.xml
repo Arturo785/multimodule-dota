@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DotaInfo.iml" filepath="$PROJECT_DIR$/.idea/modules/DotaInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DotaInfo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DotaInfo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DotaInfo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DotaInfo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DotaInfo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DotaInfo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DotaInfo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DotaInfo.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.test.iml" />
+    </modules>
+  </component>
+</project>
