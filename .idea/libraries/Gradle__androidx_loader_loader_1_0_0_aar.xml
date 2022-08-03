@@ -3,9 +3,17 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c8b515d103925e0276958a7351a514ec/transformed/loader-1.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/46b9a69a92e9462c388938a59fb05464/transformed/loader-1.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/30d86609a0575dc7b46feb0ddc43d49c/transformed/loader-1.0.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/30d86609a0575dc7b46feb0ddc43d49c/transformed/loader-1.0.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/30d86609a0575dc7b46feb0ddc43d49c/transformed/loader-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/08a7746ab4bbbd9796c144c2b0725702/transformed/loader-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f58aa7ab6d822726e4c2c3969e9702a/transformed/loader-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ffbd5662e131c3b2654467336d243d31/transformed/loader-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/528d953363713b23f2e5d8eb6df15d01/transformed/loader-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f74ff8ee1680223e0fa3610c3445c9d/transformed/loader-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b66e291116bc907bbe510e11fb5866e/transformed/loader-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0559e4e86ff6649282541f3fcf722b8c/transformed/loader-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7ad4428ed0e48e693657abc2bc4a1b50/transformed/loader-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7ad4428ed0e48e693657abc2bc4a1b50/transformed/loader-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7ad4428ed0e48e693657abc2bc4a1b50/transformed/loader-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

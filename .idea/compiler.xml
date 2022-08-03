@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="1.7">
+      <module name="DotaInfo.app" target="11" />
+      <module name="DotaInfo.buildSrc" target="11" />
+      <module name="DotaInfo.buildSrc.main" target="11" />
+      <module name="DotaInfo.buildSrc.test" target="11" />
+      <module name="DotaInfo.components" target="11" />
+      <module name="DotaInfo.constants" target="1.8" />
+      <module name="DotaInfo.constants.main" target="1.8" />
+      <module name="DotaInfo.constants.test" target="1.8" />
+      <module name="DotaInfo.core" target="1.8" />
+      <module name="DotaInfo.core.main" target="1.8" />
+      <module name="DotaInfo.core.test" target="1.8" />
+      <module name="DotaInfo.hero.hero-datasource" target="1.8" />
+      <module name="DotaInfo.hero.hero-datasource-test" target="1.8" />
+      <module name="DotaInfo.hero.hero-datasource-test.main" target="1.8" />
+      <module name="DotaInfo.hero.hero-datasource-test.test" target="1.8" />
+      <module name="DotaInfo.hero.hero-datasource.main" target="1.8" />
+      <module name="DotaInfo.hero.hero-datasource.test" target="1.8" />
+      <module name="DotaInfo.hero.hero-domain" target="1.8" />
+      <module name="DotaInfo.hero.hero-domain.main" target="1.8" />
+      <module name="DotaInfo.hero.hero-domain.test" target="1.8" />
+      <module name="DotaInfo.hero.hero-interactors" target="1.8" />
+      <module name="DotaInfo.hero.hero-interactors.main" target="1.8" />
+      <module name="DotaInfo.hero.hero-interactors.test" target="1.8" />
+      <module name="DotaInfo.hero.heroDetail" target="11" />
+      <module name="DotaInfo.hero.ui-herolist" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -10,6 +10,39 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DotaInfo.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/DotaInfo.components.iml" filepath="$PROJECT_DIR$/.idea/modules/components/DotaInfo.components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/DotaInfo.components.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/components/DotaInfo.components.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/DotaInfo.components.main.iml" filepath="$PROJECT_DIR$/.idea/modules/components/DotaInfo.components.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/components/DotaInfo.components.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/components/DotaInfo.components.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/constants/DotaInfo.constants.iml" filepath="$PROJECT_DIR$/.idea/modules/constants/DotaInfo.constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/constants/DotaInfo.constants.main.iml" filepath="$PROJECT_DIR$/.idea/modules/constants/DotaInfo.constants.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/constants/DotaInfo.constants.test.iml" filepath="$PROJECT_DIR$/.idea/modules/constants/DotaInfo.constants.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DotaInfo.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DotaInfo.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DotaInfo.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DotaInfo.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DotaInfo.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DotaInfo.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/DotaInfo.hero.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/DotaInfo.hero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-datasource/DotaInfo.hero.hero-datasource.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-datasource/DotaInfo.hero.hero-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-datasource-test/DotaInfo.hero.hero-datasource-test.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-datasource-test/DotaInfo.hero.hero-datasource-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-datasource-test/DotaInfo.hero.hero-datasource-test.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-datasource-test/DotaInfo.hero.hero-datasource-test.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-datasource-test/DotaInfo.hero.hero-datasource-test.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-datasource-test/DotaInfo.hero.hero-datasource-test.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-datasource/DotaInfo.hero.hero-datasource.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-datasource/DotaInfo.hero.hero-datasource.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-datasource/DotaInfo.hero.hero-datasource.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-datasource/DotaInfo.hero.hero-datasource.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-domain/DotaInfo.hero.hero-domain.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-domain/DotaInfo.hero.hero-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-domain/DotaInfo.hero.hero-domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-domain/DotaInfo.hero.hero-domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-domain/DotaInfo.hero.hero-domain.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-domain/DotaInfo.hero.hero-domain.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-interactors/DotaInfo.hero.hero-interactors.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-interactors/DotaInfo.hero.hero-interactors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-interactors/DotaInfo.hero.hero-interactors.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-interactors/DotaInfo.hero.hero-interactors.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/hero-interactors/DotaInfo.hero.hero-interactors.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/hero-interactors/DotaInfo.hero.hero-interactors.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/heroDetail/DotaInfo.hero.heroDetail.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/heroDetail/DotaInfo.hero.heroDetail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/heroDetail/DotaInfo.hero.heroDetail.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/heroDetail/DotaInfo.hero.heroDetail.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/heroDetail/DotaInfo.hero.heroDetail.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/heroDetail/DotaInfo.hero.heroDetail.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/heroDetail/DotaInfo.hero.heroDetail.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/heroDetail/DotaInfo.hero.heroDetail.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/DotaInfo.hero.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/DotaInfo.hero.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/DotaInfo.hero.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/DotaInfo.hero.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/ui-herolist/DotaInfo.hero.ui-herolist.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/ui-herolist/DotaInfo.hero.ui-herolist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/ui-herolist/DotaInfo.hero.ui-herolist.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/ui-herolist/DotaInfo.hero.ui-herolist.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/ui-herolist/DotaInfo.hero.ui-herolist.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/ui-herolist/DotaInfo.hero.ui-herolist.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero/ui-herolist/DotaInfo.hero.ui-herolist.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hero/ui-herolist/DotaInfo.hero.ui-herolist.unitTest.iml" />
     </modules>
   </component>
 </project>

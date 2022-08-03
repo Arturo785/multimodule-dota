@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":hero:hero-datasource-test:main" external.linked.project.path="$MODULE_DIR$/../../../../hero/hero-datasource-test" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="DotaInfo.hero" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../hero/hero-datasource-test/build/classes/kotlin/main" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../hero/hero-datasource/build/classes/kotlin/main:/Users/vn53fry/Documents/android/multimodule-2/hero/hero-domain/build/classes/kotlin/main:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-jvm/1.5.1/66171016c4ea04b60bf78612b92eb4ea3d4d8222/runtime-jvm-1.5.1.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.5.10/3f4af7aff21c4ec46e3cdd645639d0a63a68d3d0/kotlin-stdlib-jdk8-1.5.10.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-mock-jvm/1.5.2/721b7f204a93f24751bdbb5f5084b1e31822a90/ktor-client-mock-jvm-1.5.2.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-serialization-jvm/1.5.2/d6644709d77dcaaaddcb5d166305795f221f6985/ktor-client-serialization-jvm-1.5.2.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-json-jvm/1.5.2/7104bb07c8ed5ceb529fff558e6272a82eac28b5/ktor-client-json-jvm-1.5.2.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core-jvm/1.5.2/e05ebd1bd4e839b7428eaf734295597e56d24bb5/ktor-client-core-jvm-1.5.2.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio-jvm/1.5.2/765adc8967bc8082b3d3ffb3e551df82045569ec/ktor-http-cio-jvm-1.5.2.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-jvm/1.5.2/4369b93f10dfc7a5f25e9553c3b7a939672ef27e/ktor-http-jvm-1.5.2.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-jvm/1.5.2/2dbe903827cefa66c8d4e798733e332786eb2ac/ktor-network-jvm-1.5.2.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-jvm/1.5.2/7c27dfe83c6a5b60ae9dc6d932aa28e0aeefd109/ktor-utils-jvm-1.5.2.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.5.10/c49d0703d16c6cb1526cc07b9b46486da1dd8a60/kotlin-stdlib-jdk7-1.5.10.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io-jvm/1.5.2/e82d3eb4104bde6be7c0e2a20cbece4f2bf32bad/ktor-io-jvm-1.5.2.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.4.2-native-mt/e9cfc66b4db41c778afa95680baa3d3951ea6c45/kotlinx-coroutines-core-jvm-1.4.2-native-mt.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-jvm/1.0.1/900f8d34f091c8a957eca49e0cf6bf7d7006482d/kotlinx-serialization-json-jvm-1.0.1.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-jvm/1.0.1/d0c5ab89372940ed3fb77952e79b9cd5d466d86/kotlinx-serialization-core-jvm-1.0.1.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.10/da6a904b132f0402fa4d79169a3c1770598d4702/kotlin-stdlib-1.5.10.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.10/6b84d926e28493be69daf673e40076f89492ef7/kotlin-stdlib-common-1.5.10.jar:/Users/vn53fry/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.30/b5a4b6d16ab13e34a88fae84c35cd5d68cac922c/slf4j-api-1.7.30.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="hero-datasource-test" />
+          <option name="languageVersion" value="1.5" />
+          <option name="apiVersion" value="1.5" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.5.10/df0def48986ef2af0274abbe2171ee8d402b1670/kotlin-gradle-plugin-api-1.5.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.5.10/69bad0ece91b0797055aeadbd44dc742c458398b/kotlin-script-runtime-1.5.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.5.10/26ef979ccbbcf86a5715a379aebb705cb58e4b97/kotlin-scripting-common-1.5.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.5.10/174645854951dbecf6eac5806c01cc8ef888efdd/kotlin-scripting-jvm-1.5.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.10/6b84d926e28493be69daf673e40076f89492ef7/kotlin-stdlib-common-1.5.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.10/da6a904b132f0402fa4d79169a3c1770598d4702/kotlin-stdlib-1.5.10.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.8/f62be6d4cbf27781c2969867b4ed952f38378492/kotlinx-coroutines-core-1.3.8.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+              <option value="$KOTLIN_BUNDLED$/lib/kotlinx-serialization-compiler-plugin.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../hero/hero-datasource-test/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../hero/hero-datasource-test/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../hero/hero-datasource-test/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="DotaInfo.hero.hero-datasource.main" />
+    <orderEntry type="module" module-name="DotaInfo.hero.hero-domain.main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.sqldelight:runtime-jvm:1.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.10" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-mock-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-serialization-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.30" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-core-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.4.2-native-mt" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-json-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-cio-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-utils-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-network-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-io-jvm:1.5.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.ktor:ktor-client-android:1.5.2" level="project" />
+    <orderEntry type="module" module-name="DotaInfo.core.main" scope="RUNTIME" />
+  </component>
+</module>
